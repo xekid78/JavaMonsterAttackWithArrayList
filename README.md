@@ -1,5 +1,5 @@
 # Java_SampleCode26
-ArrayListを使ってのモンスター攻撃表現
+コレクション
 
 #### 処理
 AllayListを使って複数のモンスターが攻撃してきたと表示する。
