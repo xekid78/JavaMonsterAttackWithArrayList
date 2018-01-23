@@ -1,4 +1,4 @@
-# Java_SampleCode26
+# JavaSampleCode26
 コレクション
 
 #### 処理
