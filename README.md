@@ -1,0 +1,2 @@
+# Java_SampleCode26
+ArrayListを使ってのモンスター攻撃表現
