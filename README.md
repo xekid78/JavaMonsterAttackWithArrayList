@@ -8,7 +8,7 @@ AllayListを使って複数のモンスターが攻撃してきたと表示す�
 ```
 import java.util.ArrayList;
 
-public class Sample26 {
+public class Msatk {
 
 	public static void main(String[] args) {
 		ArrayList<Enemy2> enemies = new ArrayList<Enemy2>();
@@ -37,6 +37,7 @@ class Enemy2 {
 	}
 
 }
+
 ```
 
 ## 出力結果  
@@ -49,5 +50,6 @@ class Enemy2 {
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
